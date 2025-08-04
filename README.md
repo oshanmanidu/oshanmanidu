@@ -10,7 +10,7 @@
 
 🚀 Currently exploring API design, MVC, and real-world app building.
 
-📅 Active since July 2025 – just getting started!
+📅 Active since 2024 – just getting started!
 
 📫 Let's connect and grow together.
 
