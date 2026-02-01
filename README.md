@@ -1,31 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Oshan Manidu</h1>
 
-# 👋 Hi, I'm Oshan Manidu
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;CCNA+Certified+Network+Technician;Full-Stack+and+Mobile+App+Developer;Media+and+Technology+Enthusiast" />
+</p>
 
-💻 Passionate about building web apps and learning full-stack development.
+---
 
-🛠️ Focused on:
-- Java • Spring Boot • HTML/CSS
-- Backend logic and clean architecture
+### About Me
 
-🚀 Currently exploring API design, MVC, and real-world app building.
+I am a BSc (Hons) Software Engineering undergraduate at NSBM Green University with a strong interest in building scalable, efficient, and real-world software solutions.  
+I hold an NVQ Level 4 certification as a Network Technician and I am CCNA certified, with a solid foundation in networking and system design.
 
-📅 Active since 2024 – just getting started!
+I actively work in full-stack web development, backend systems, and mobile application development, while continuously learning modern technologies such as Go and Angular. Alongside engineering, I am involved in media production, combining creativity with technology through videography and photography.
 
-📫 Let's connect and grow together.
+---
 
+### Current Focus
 
-<!--
-**oshanmanidu/oshanmanidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Backend development with Java Spring Boot  
+- Full-stack web application development  
+- Mobile app development using Flutter  
+- Learning Go and Angular  
+- Networking fundamentals and system-level understanding  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+```text
+Languages        : Java, JavaScript, Go (learning), SQL, Dart
+Frameworks       : Spring Boot, JSP/Servlet MVC, Angular (learning), Flutter
+Databases        : MySQL
+IDEs & Tools     : IntelliJ IDEA, Android Studio, NetBeans, VS Code
+Version Control  : Git, GitHub
+Networking       : CCNA, Network Configuration, Troubleshooting
+Creative Tools   : Adobe Premiere Pro, Lightroom
